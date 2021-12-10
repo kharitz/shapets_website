@@ -1,6 +1,6 @@
 ---
 title: "Allan Lab - Home"
-layout: homelay
+layout: default
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
 permalink: /

@@ -10,7 +10,7 @@ title: ShapETS Lab, Montreal
 email: karthikgharitz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ShapETS lab.
-baseurl: "shapets_website"
+baseurl: "kharitz.github.io/shapets_website"
 url: ""
 
 include:

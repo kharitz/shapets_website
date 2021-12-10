@@ -8,14 +8,8 @@
 # Site settings
 title: ShapETS Lab, Montreal 
 email: karthikgharitz@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-<<<<<<< Updated upstream
-  Website of the ShapETS lab.
-baseurl: "kharitz.github.io/shapets_website"
-=======
-  Website of the ShapETS.
+description:  Website of the ShapETS # this means to ignore newlines until "baseurl:"
 baseurl: "shapets_website"
->>>>>>> Stashed changes
 url: ""
 
 include:

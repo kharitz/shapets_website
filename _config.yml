@@ -9,8 +9,8 @@
 title: ShapETS Lab, Montreal 
 email: karthikgharitz@gmail.com
 description:  Website of the ShapETS # this means to ignore newlines until "baseurl:"
-baseurl: "shapets_website"
-url: ""
+baseurl: ""
+url: "https://kharitz.github.io/shapets_website/"
 
 include:
   - .htaccess

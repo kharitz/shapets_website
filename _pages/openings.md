@@ -38,5 +38,5 @@ You will have the chance to work on the grand challenges of condensed matter phy
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/montreal-skyline.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/montreal-skyline.jpeg" width="95%">
 </figure>

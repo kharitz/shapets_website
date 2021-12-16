@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "ShapETS - Home"
 layout: default
-excerpt: "Allan Lab at Leiden University."
+excerpt: "ShapETS lab at ETS Montreal."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group working on Geometric Data Analysis in Medical Imaging at [ETS Montreal, Canada](http://www.etsmtl.ca). Our aim is to explore and understand medical images and shapes using machine learning.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -44,14 +44,19 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+**We are Hiring! PhD / Postdocs** 
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+Passionate students in the fields of Medical Image Computing — an interdisciplinary field at the intersection of Computer Vision, Machine Learning and Medicine. Your research will focus on discovering new geometrical aspects of anatomy, diseases and various biological phenomena. You will be developing a cutting-edge expertise on models derived from Machine Learning, Computer Vision, and Medical Imaging.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ETS Montreal is one of Canada's Fastest-Growing Universities. It offers a thriving research environment to conduct state-of-the-art research in multiple areas, including Machine Learning, Computer Vision and Medical Image Analysis. You will be in a new team on Shape and Data Analysis in Medical Imaging, led by Prof Hervé Lombaert, with ample opportunities to collaborate with the best teams in North America and Europe.
 
+Located in vibrant Montreal, you will experience a unique blend of North American and European culture with one of the lowest cost of living on the continent. Competitive tax-free salaries can be topped up with generous awards and scholarships.
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+Working language is English.
+
+Sent to [herve.lombaert@etsmtl.ca]:
+- Statement of Interest   (Why Research?   Why Montreal?)
+- CV listing publication and names of two references
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">

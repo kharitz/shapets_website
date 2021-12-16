@@ -1,6 +1,6 @@
 ---
 title: "ShapETS - Home"
-layout: default
+layout: homelay
 excerpt: "ShapETS lab at ETS Montreal."
 sitemap: false
 permalink: /

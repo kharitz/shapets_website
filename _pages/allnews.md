@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: default
 excerpt: "ShapETS"
 sitemap: false
 permalink: /allnews.html

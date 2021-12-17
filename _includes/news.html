@@ -2,8 +2,7 @@
 <div class="container-fluid">
 
 {% for article in site.data.news limit:9 %}
-<b>[{{ article.date | markdownify}}]</b>
-{{ article.headline | markdownify}}
+<b>[{{ article.date}}]</b> {{ article.headline | markdownify}}
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>

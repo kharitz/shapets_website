@@ -2,9 +2,9 @@
 <div class="well">
 
 {% for article in site.data.news limit:9 %}
-<ul><li -><b>[{{article.date}}]</li></b></ul>
-<p>{{ article.headline | markdownify}}</p>
+<ul><li><b>[{{article.date}}] {{ article.headline | markdownify}}
 {% endfor %}
+</li></b></ul>
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
 

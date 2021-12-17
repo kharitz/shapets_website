@@ -44,7 +44,7 @@ We are a dynamic research group working on Geometric Data Analysis in Medical Im
 
 
 
-<!-- **We are Hiring! PhD / Postdocs** 
+<!-- **We are Hiring! MS / PhD / Postdocs** 
 
 Passionate students in the fields of Medical Image Computing — an interdisciplinary field at the intersection of Computer Vision, Machine Learning and Medicine. Your research will focus on discovering new geometrical aspects of anatomy, diseases and various biological phenomena. You will be developing a cutting-edge expertise on models derived from Machine Learning, Computer Vision, and Medical Imaging.
 

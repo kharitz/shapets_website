@@ -2,7 +2,7 @@
 <div class="well">
 
 {% for article in site.data.news limit:9 %}
-{{ <b>[article.date]</b>}}
+{{ <ul><li -><b>[article.date]</li></b></ul>}}
 <p>{{ article.headline | markdownify}}</p>
 {% endfor %}
 

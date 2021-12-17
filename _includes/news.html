@@ -2,7 +2,7 @@
 <div class="container-fluid">
 
 {% for article in site.data.news limit:9 %}
-<p>{{ article.date }}
+<p>{{ article.date  article.headline }}
 {{ article.headline | markdownify}}</p>
 {% endfor %}
 

@@ -2,7 +2,7 @@
 <div class="container-fluid">
 
 {% for article in site.data.news limit:9 %}
-<ul><li><p><b>[{{ article.date}}]</b> {{ article.headline}}</ul></li></p>
+<ul><li><b>[{{ article.date}}]</b> {{ article.headline}}</ul></li>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... more News</a></h4>
